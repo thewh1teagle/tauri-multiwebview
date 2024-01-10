@@ -59,7 +59,7 @@ use winit::{
         width: size.width / 2,
         height: size.height / 2,
       })
-      .with_url("https://google.com")? // change to twitter.com and see that it doesnt work
+      .with_url("https://twitter.com")? // change to google.com and see that it works but twitter.com or facebook.com doesn't
       .with_web_context(&mut context)
       .build()
       ?;
