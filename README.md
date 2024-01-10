@@ -8,10 +8,9 @@ For testing:
 cargo run
 ```
 
-New version of webview2 already solved it, in canary build
+New version of webview2 already solved it `122.0.2333.0`, in canary build
 
 https://www.microsoft.com/en-us/edge/download/insider?form=MA13FJ&ch=1
-
 For testing with canary:
 ```
 WEBVIEW2_RELEASE_CHANNEL_PREFERENCE=1 cargo run
