@@ -15,3 +15,8 @@ For testing with canary:
 ```
 WEBVIEW2_RELEASE_CHANNEL_PREFERENCE=1 cargo run
 ```
+
+
+For trying older versions of webview2:
+
+https://www.catalog.update.microsoft.com/Search.aspx?q=webview2
